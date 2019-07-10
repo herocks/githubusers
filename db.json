@@ -1,14 +1,16 @@
-[
-    {
-        "name": "Hirak Chatterjee",
-        "username": "herocks"
-    },
-    {
-        "name": "Hemanth",
-        "username": "hemanth"
-    },
-    {
-        "name": "Santosh Shingare",
-        "username": "cherishsantosh"
-    }
-]
+{
+    "users" : [
+        {
+            "name": "Hirak Chatterjee",
+            "username": "herocks"
+        },
+        {
+            "name": "Hemanth",
+            "username": "hemanth"
+        },
+        {
+            "name": "Santosh Shingare",
+            "username": "cherishsantosh"
+        }
+    ]
+}
